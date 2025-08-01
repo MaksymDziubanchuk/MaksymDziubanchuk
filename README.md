@@ -12,12 +12,30 @@ Currently focused on working with the **MERN stack**, designing secure REST APIs
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript)
 
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb)
-![JWT](https://img.shields.io/badge/JSON%20Web%20Token-000000?style=flat&logo=jsonwebtokens)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448c5?style=flat&logo=cloudinary&logoColor=white)
+### 🧠 Backend (core)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
+![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens)
+![Passport](https://img.shields.io/badge/-Passport-blue)
+
+### 🔐 Auth & Security
+![bcrypt](https://img.shields.io/badge/-bcrypt-yellowgreen)
+![jsonwebtoken](https://img.shields.io/badge/-JWT-black)
+![passport-google](https://img.shields.io/badge/-GoogleAuth-lightblue)
+
+### 🧰 Tools & Testing
+![Jest](https://img.shields.io/badge/-Jest-red?logo=jest)
+![ESLint](https://img.shields.io/badge/-ESLint-blue?logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-ff69b4?logo=prettier)
+
+### 🧪 Data Validation
+![Joi](https://img.shields.io/badge/-Joi-lightgreen)
+
+### 📤 File & Image Handling
+![Multer](https://img.shields.io/badge/-Multer-orange)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-blue?logo=cloudinary)
+![Jimp](https://img.shields.io/badge/-Jimp-purple)
 
 **Frontend (basics):**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
