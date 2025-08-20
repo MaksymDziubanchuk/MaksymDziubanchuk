@@ -16,6 +16,9 @@ Currently focused on working with the **MERN stack**, designing secure REST APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-blue?logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?logo=socketdotio)
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens)
 ![Passport](https://img.shields.io/badge/-Passport-blue)
 
