@@ -78,4 +78,4 @@ Currently focused on working with the **MERN stack**, designing secure REST APIs
 
 ---
 
-_Always learning, always building._
+_Always learning, always building. Still here._
