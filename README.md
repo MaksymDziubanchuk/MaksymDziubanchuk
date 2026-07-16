@@ -64,11 +64,8 @@ I also have experience with the **MERN stack** and continue expanding my backend
 **Payments & Integrations:**  
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-**Realtime & API Expansion:**  
+**Realtime:**  
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?logo=socketdotio)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Apollo Server](https://img.shields.io/badge/Apollo%20Server-311C87?style=flat&logo=apollographql&logoColor=white)
 
 **Templating:**  
 ![Handlebars](https://img.shields.io/badge/-Handlebars-orange?logo=handlebarsdotnet)
@@ -85,14 +82,12 @@ I also have experience with the **MERN stack** and continue expanding my backend
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat)
 
 **Deployment & DevOps:**  
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -105,7 +100,9 @@ I also have experience with the **MERN stack** and continue expanding my backend
 ![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Apollo Server](https://img.shields.io/badge/Apollo%20Server-311C87?style=flat&logo=apollographql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?logo=socketdotio)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat)
 
 ---
 
