@@ -40,7 +40,6 @@ I also have experience with the **MERN stack** and continue expanding my backend
 
 **Auth & Security:**  
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens)
-![jsonwebtoken](https://img.shields.io/badge/-JWT-black)
 ![bcrypt](https://img.shields.io/badge/-bcrypt-yellowgreen)
 ![Passport](https://img.shields.io/badge/-Passport-blue)
 ![passport-google](https://img.shields.io/badge/-GoogleAuth-lightblue)
